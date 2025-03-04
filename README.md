@@ -16,3 +16,9 @@ This project builds a machine learning model to predict the aqueous solubility (
 - Scikit-Learn (Linear Regression, Random Forest)
 - XGBoost
 - Joblib (for model saving and loading)
+
+## Results
+
+- XGBoost performed best with the highest R² score.
+- Feature importance analysis helped improve model interpretability.
+- Visualizations provided insights into prediction accuracy and error distribution.
